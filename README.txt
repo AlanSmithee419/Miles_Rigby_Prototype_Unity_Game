@@ -1,9 +1,10 @@
 IMPORTANT: As the game is provided as an executable without source code, I understand there may be security concerns. For those reviewing this for job applications, I'm 
-happy to provide alternative demonstrations of this work, such as screenshots or video/live demos. Please reach out to me if you'd like to pursue these options.
+happy to provide alternative demonstrations of this work, such as extra screenshots (see: GameCaptures folder) or video/live demos. Please reach out to me if you'd like to pursue these options.
 
 This project is a prototype version of a simple UI-based incremental game built in Unity using C# that can be run through Incremental.exe.
 The game is currently being refactored elsewhere to allow easier expansion of mechanics in the future, better following object oriented and project design principles.
 Game code is contained in a seperate, private repo.
+GameCaptures provides some screenshots of the early game to demonstrate a few key mechanics. These are limited, but showcase the main user interface.
 
 The game uses the setting of a survival game with fantasy elements.
 There are three basic types of resources:
