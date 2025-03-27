@@ -1,0 +1,7 @@
+This folder contains screenshots of the early game which demonstrate the User Interface and simple mechanics.
+
+BasicUI.png - screenshot taken at the start of the game, showing the minimal design intended for efficiency and ease-of-use. The skills (top), resources (left), intermediate products (middle) and constructions (right) can all be seen, with space on the far right for future mechanics/navigation to other screens when implemented.
+
+PreConstruct.png - Similar screenshot taken shortly before the construct "Crude Pickaxe" is completed.
+
+PostConstructAndTooltip.png - shows the state of the game after the construct "Crude Pickaxe" is completed. The player has lost resources and intermediate products in the process, and unlocked new items and a relevant skill - Mining. This screenshot was taken while the mouse hovered over the "Start" button for the construct "Stone Chisel", displaying two tooltips - one for the costs associated with its construction, and another showing how many can be crafted, and the effect its completion will have - in this case providing a multiplier of 1.5x to any action that uses the "Crafting" skill. This will also increase the exp gained for this skill when it is being used.
